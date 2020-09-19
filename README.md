@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://www.petrafranklin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.petrafranklin.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/petrafranklin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Petra%20Franklin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/petrafranklin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Petra%20Franklin%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/petafranklin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-petrafranklin__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:petrafranklin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-petrafranklin@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
