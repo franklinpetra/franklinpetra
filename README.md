@@ -9,10 +9,10 @@
 - ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online artschool that Tara Lawton and I operate.
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django |
+- 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django 
 - 🌐 &nbsp; HTML | CSS | jQuery | Animations | Bootstrap | Material-UI | Node.js | ReactJS 
-- 🛢 &nbsp; SQL | MySQL | MongoDB | Socket.io | NodeJS | MERN | Flask | Ajax | Postman | Express | Bower | Tomcat | ThymeLeaf | 
-- 🔧 &nbsp; Git | Brain.js | Selenium | TenzorFlow | Alan AI | 
+- 🛢 &nbsp; SQL | MySQL | MongoDB | Socket.io | NodeJS | MERN | Flask | Ajax | Postman | Express | Bower | Tomcat | ThymeLeaf 
+- 🔧 &nbsp; Git | Brain.js | Selenium | TenzorFlow | Alan AI 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Animate
 <br/>
 
