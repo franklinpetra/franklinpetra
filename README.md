@@ -1,6 +1,6 @@
-<h2> Hello! I'm Petra.</h2>
+<h2>Petra Franklin</h2>
 
-<h3> 👨🏻‍💻 Currently</h3>
+<h3>👨🏻‍💻 Currently</h3>
 
 - 🤔 &nbsp; Exploring technologies, developing solutions to problems, and creating with code.
 - 🎓 &nbsp; Recently graduated the Coding Dojo, a bootcamp focused on full-stack Python, C#, Java.
