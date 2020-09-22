@@ -7,7 +7,10 @@
 - 💼 &nbsp; Day job is Vault Capital LLC.
 - 🌱 &nbsp; Currently learning about Cloud Architecture, Systems Design and Machine Intelligence.
 - ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online artschool that Tara Lawton and I operate.
+- ✍️ &nbsp; Born at 319.57ppm.
+
 <h3>🛠 Tech Stack</h3>
+
 
 - 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django 
 - 🌐 &nbsp; HTML | CSS | jQuery | Animations | Bootstrap | Material-UI | Node.js | ReactJS 
