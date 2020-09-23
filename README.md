@@ -3,7 +3,7 @@
 <h3>👨🏻‍💻 Currently</h3>
 
 - 🤔 &nbsp; Exploring technologies, developing solutions to problems, and creating with code.
-- 🎓 &nbsp; Recently graduated the Coding Dojo, a bootcamp focused on full-stack Python, C#, Java.
+- 🎓 &nbsp; Recently graduated from "Coding Dojo", a bootcamp focused on full-stack Python, C#, JavaScript, MERN.
 - 💼 &nbsp; Day job is Vault Capital LLC.
 - 🌱 &nbsp; Currently learning about Cloud Architecture, Systems Design and Machine Intelligence.
 - ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online artschool that Tara Lawton and I operate.
