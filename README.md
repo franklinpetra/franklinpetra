@@ -4,10 +4,10 @@
 
 - 🤔 &nbsp; Learning machine languages, solving data challenges, and creating art with code.
 - 🎓 &nbsp; Recently graduated from "Coding Dojo", a bootcamp focused on full-stack Python, C#, and JavaScript.
-- 💼 &nbsp; Day job is Vault Capital LLC.
-- 🌱 &nbsp; Currently learning about Cloud Architecture, Systems Design and Machine Intelligence.
-- ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online artschool that Tara Lawton and I are launching.
-- ✍️ &nbsp; Born at 319.57ppm.
+- 💼 &nbsp; Vault Capital LLC
+- 🔧 &nbsp; Currently learning about Cloud Architecture, Systems Design and Machine Intelligence.
+- ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online art school that Tara Lawton and I are launching.
+- 🌱 &nbsp; Born at 319.57ppm.
 
 <h3>🛠 Tech Stack</h3>
 
