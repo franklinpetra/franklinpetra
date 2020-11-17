@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building full-stack Python, C#, and JavaScript applications.
 - 💼 &nbsp; Vault Capital LLC
 - 🔧 &nbsp; Currently learning about Cloud Architecture, Systems Design, Privacy, Security, and Machine Intelligence.
-- ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive online creative playground that Tara Lawton and I are launching.
+- ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground that Tara Lawton and I are launching.
 - 🌱 &nbsp; Born at 319.57ppm.
 
 
