@@ -1,12 +1,12 @@
 <h2>Petra Franklin</h2>
 
-<h3>👨🏻‍💻 Currently</h3>
+<h3>👩🏼‍💻 Currently</h3>
 
 - 🤔 &nbsp; Learning machine languages, solving data challenges, and creating art with code.
-- 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building full-stack Python, C#, and JavaScript applications.
+- 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; Vault Capital LLC
-- 🔧 &nbsp; Currently learning about Cloud Architecture, Systems Design, Privacy, Security, and Machine Intelligence.
-- ✍️ &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground that Tara Lawton and I are launching.
+- 💨 &nbsp; Currently learning about Cloud Architecture, Systems Design, Privacy, Security, and Machine Intelligence.
+- 🖼 &nbsp; Sidehustle is <a href="ttps://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground that Tara Lawton and I are launching.
 - 🌱 &nbsp; Born at 319.57ppm.
 
 
@@ -15,8 +15,8 @@
 - 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django 
 - 🌐 &nbsp; HTML | CSS | jQuery | Animations | Bootstrap | Material-UI | Node.js | ReactJS 
 - 🛢 &nbsp; SQL | MySQL | MongoDB | Socket.io | NodeJS | MERN | Flask | Ajax | Postman | Express | Bower | Tomcat | ThymeLeaf 
-- 🔧 &nbsp; Git | Brain.js | AWS | Heroku| Netlify| Selenium | TenzorFlow | Alan AI 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign | Animate
+- 🧠 &nbsp; Git | Brain.js | AWS | Heroku| Netlify| Selenium | TenzorFlow | Alan AI 
+- 🎨 &nbsp; Illustrator| Photoshop | InDesign | Animate
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklinpetra&show_icons=true)](https://github.com/AVS1508)
