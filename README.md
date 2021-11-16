@@ -3,7 +3,7 @@
 
 <h3>👩🏼‍💻 Currently</h3>
 
-- 🤔 &nbsp; Learning machine languages, solving data challenges, and creating art with code.
+- 🤔 &nbsp; Learning more machine languages, solving data challenges, and creating art with code.
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building plain vanilla full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; Vault Capital LLC
 - 💨 &nbsp; Currently learning about Satellites, Cloud Architecture, Systems Design, and Privacy.
