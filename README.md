@@ -1,14 +1,13 @@
 <h2>Petra Franklin</h2>
+🌱 &nbsp; Born at 319.57ppm.
 
 <h3>👩🏼‍💻 Currently</h3>
 
 - 🤔 &nbsp; Learning machine languages, solving data challenges, and creating art with code.
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building plain vanilla full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; Vault Capital LLC
-- 💨 &nbsp; Currently learning about Cloud Architecture, Systems Design, and Privacy.
-- 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a> and <a href="https://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground with Tara Lawton.
-- 🌱 &nbsp; Born at 319.57ppm.
-
+- 💨 &nbsp; Currently learning about Satellites, Cloud Architecture, Systems Design, and Privacy.
+- 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a> and <a href="https://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground.
 
 <h3>🛠 Tech Stack</h3>
 
