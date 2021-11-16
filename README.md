@@ -3,10 +3,10 @@
 
 <h3>👩🏼‍💻 Currently</h3>
 
-- 🤔 &nbsp; Learning more machine languages, solving data challenges, and creating art with code.
+- 🤔 &nbsp; Learning more machine languages, enjoying data manipulation challenges, and creating art with code.  
+- 💨 Also studying Satellite and Antenna technology and novel solutions to privacy.
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building plain vanilla full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; <a href="http://www.vaultcapital.com/">Vault Capital LLC</a>
-- 💨 &nbsp; Currently learning about Satellites, Cloud Architecture, Systems Design, and Privacy.
 - 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a> and <a href="https://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive playground.
 
 <h3>🛠 Tech Stack</h3>
