@@ -7,7 +7,7 @@
 - 💨 Also studying Satellite and Antenna technology and novel solutions to privacy.
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building plain vanilla full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; <a href="http://www.vaultcapital.com/">Vault Capital LLC</a>
-- 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a>, <a href="https://www.ArtistLeague.net">The Artist League</a>, an online art school and interactive art studio, and the <a href="http://algoplayground.net">Algo Playground</a>.
+- 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a>, <a href="https://www.ArtistLeague.net">The Artist League</a>, an online interactive art school, and the <a href="http://algoplayground.net">Algo Playground</a>.
 
 <h3>🛠 Tech Stack</h3>
 
