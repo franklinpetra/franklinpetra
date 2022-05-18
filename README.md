@@ -4,7 +4,7 @@
 <h3>👩🏼‍💻 Currently</h3>
 
 - 🤔 &nbsp; Learning more machine languages, enjoying data manipulation challenges, and creating art with code.  
-- 💨 Also studying Satellite and Antenna technology and novel solutions to privacy.
+- 💨 &nbsp; Studying novel sciences and technologies and writing stories about them.
 - 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", with a focus on building plain vanilla full-stack Python, C#, and JavaScript applications. 
 - 💼 &nbsp; <a href="http://www.vaultcapital.com/">Vault Capital LLC</a>
 - 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a>, <a href="https://www.ArtistLeague.net">The Artist League</a>, an online interactive art school, and the <a href="http://algoplayground.net">Algo Playground</a>.
@@ -14,7 +14,7 @@
 - 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django 
 - 🌐 &nbsp; HTML | CSS | jQuery | Animations | Bootstrap | Material-UI | Node.js | ReactJS 
 - 🛢 &nbsp; SQL | MySQL | MongoDB | Socket.io | NodeJS | MERN | Flask | Ajax | Postman | Express | Bower | Tomcat | ThymeLeaf 
-- 🧠 &nbsp; Git | Brain.js | AWS | Heroku| Netlify| Selenium | TenzorFlow | Alan AI 
+- 🧠 &nbsp; Git app | Brain.js | AWS | Heroku| Netlify| Selenium | TensorFlow | Alan AI | Google Cloud | 
 - 🎨 &nbsp; Illustrator| Photoshop | InDesign | Animate
 <br/>
 
