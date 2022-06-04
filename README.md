@@ -3,9 +3,9 @@
 
 <h3>👩🏼‍💻 Currently</h3>
 
-- 🤔 &nbsp; Learning more machine languages, enjoying data manipulation challenges, and creating art with code.  
+- 🤔 &nbsp; Exploring machine languages, enjoying data manipulation challenges, and creating art with code.  
 - 💨 &nbsp; Studying novel sciences and technologies and writing stories about them.
-- 🎓 &nbsp; Recently graduated from the bootcamp, "Coding Dojo", which means I can now build efficient (albeit a bit plain vanilla) full-stack applications in Python, C#, and JavaScript. It was a valuable experience in leading and contributing to, engineering teams.  
+- 🎓 &nbsp; Graduate of the bootcamp, "Coding Dojo", which means I can now build efficient (albeit a bit plain vanilla) full-stack applications in Python, C#, and JavaScript. It was a valuable experience in leading and contributing to, engineering teams.  
 - 💼 &nbsp; <a href="http://www.vaultcapital.com/">Vault Capital LLC</a>
 - 🖼 &nbsp; Sidehustles <a href="http://www.boulderingcards.com">Bouldering Note Cards</a>, <a href="https://www.ArtistLeague.net">The Artist League</a>, an online interactive art school, and the <a href="http://algoplayground.net">Algo Playground</a>.
 
