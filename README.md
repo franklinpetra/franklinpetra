@@ -4,14 +4,15 @@
 <h3>👩🏼‍💻 Currently</h3>
 
 - 🤔 &nbsp; Exploring machine languages, enjoying data manipulation challenges, and creating art with code.  
-- 💨 &nbsp; Studying novel sciences and technologies and writing stories about them.
-- 🎓 &nbsp; Graduate of the bootcamp, "Coding Dojo", which means I can now build efficient (albeit a bit plain vanilla) full-stack applications in Python, C#, and JavaScript. It was a valuable experience in leading and contributing to, engineering teams.  
+- 💨 &nbsp; <a href="http://www.roomofmodels.site">Work with multiple frontier AI models in one place. They answer blind, then read one another's replies and engage in a discussion.You need an openrouter key to run it. Get that here: https://openrouter.ai. </a>
+- 🖼 &nbsp;Substack <a href="http://www.petrafranklin.substack.com"> Studying novel sciences and technologies and writing stories about them.
+- 🎓 &nbsp; Graduate of the bootcamp, "Coding Dojo", which means I can now build efficiently with frontier models in Python, C#, and JavaScript and validate the robustness of the work. It also helped me understand best practices for contributing to or leading engineering teams.
+- 🖼 &nbsp; <a href="http://towersessions.com/">The Tower Sessions</a>, Music Production and Performance Series.
 - 💼 &nbsp; <a href="http://www.vaultcapital.com/">Vault Capital LLC</a>
-- 🖼 &nbsp; Substack <a href="http://www.petrafranklin.substack.com"> <a href="http://www.boulderingcards.com">Bouldering Note Cards</a>, <a href="http://towersessions.com/">The Tower Sessions</a>, Music Production and Performance Series, <a href="https://www.ArtistLeague.net">The Artist League</a>, an online interactive art school, and the <a href="http://algoplayground.net">Algo Playground</a>.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C# | React | ASPnet | Java | Django 
+- 💻 &nbsp; Frontier Models | Python | JavaScript | C# | React | ASPnet | Java | Django 
 - 🌐 &nbsp; HTML | CSS | jQuery | Animations | Bootstrap | Material-UI | Node.js | ReactJS 
 - 🛢 &nbsp; SQL | MySQL | MongoDB | Socket.io | NodeJS | MERN | Flask | Ajax | Postman | Express | Bower | Tomcat | ThymeLeaf 
 - 🧠 &nbsp; Git app | Brain.js | AWS | Heroku| Netlify| Selenium | TensorFlow | Alan AI | Google Cloud | 
