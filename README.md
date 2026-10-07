@@ -3,7 +3,7 @@
 
 <h3>👩🏼‍💻 Currently</h3>
 
-- 🤔 &nbsp; Exploring machine languages, enjoying data manipulation challenges, and creating art with code.  
+- 🤔 &nbsp; Exploring frontier models, enjoying building bleeding edge development tools, and creating art with code.  
 - 💨 &nbsp; <a href="http://www.roomofmodels.site">Room Of Models</a> Work with multiple frontier AI models in one place. They answer blind, then read one another's replies and engage in a discussion. You need an openrouter key to run it. Get that here: https://openrouter.ai. </a>
 - 🖼 &nbsp;<a href="http://www.petrafranklin.substack.com"> Substack</a> Often looking under the hood, connecting the dots, or revealing what is invisible to us humans. Stories about science, biology, technology, history and politics. 
 - 🎓 &nbsp; Graduate of the bootcamp, "Coding Dojo", which means I can now build efficiently with frontier models in Python, C#, and JavaScript and validate the robustness of the work. It also helped me understand best practices for contributing to or leading engineering teams.
